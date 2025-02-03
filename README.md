@@ -1,11 +1,20 @@
 # Hi there, I'm SihunJo 👋
 <!-- HEADER -->
-<div style="position: relative; text-align: center; color: white;">
+<!-- <div style="position: relative; text-align: center; color: white;">
     <a href="https://github.com/JoSihun">
         <img src="assets/header3.png" alt="Header" style="width:100%;">
     </a>
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR+Black&size=72&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1200&height=300&lines=Welcome+To+JoSihun's+Github" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; width: 75%; height: auto;">
+</div> -->
+<div align="center">
+  <p style="font-size: 50px; font-weight: bold; text-decoration: underline;">
+    Welcome To JoSihun's Github
+  </p>
+  <a href="https://github.com/JoSihun">
+    <img src="assets/banner.png" alt="Header" style="width:100%;">
+  </a>
 </div>
+
 
 <h3><b>
 Welcome to my GitHub Profile!<br>
